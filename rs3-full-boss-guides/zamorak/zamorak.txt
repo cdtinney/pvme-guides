@@ -6,7 +6,7 @@
 .tag:intro
 *Note: a **Table of Contents** can be found in the pins.*
 
-Zamorak, Lord of Chaos is the fifth and final installment in the Elder God Wars dungeon. This guide will primarily focus on the final boss encounter, for help clearing the dungeon refer to <#1020043833955864606>. If you would like a much simpler version of the guide for getting your first couple of kills, feel free to refer to <#1020049593901264946>.
+Zamorak, Lord of Chaos is the fifth and final installment in the Elder God Wars dungeon. This guide will primarily focus on the final boss encounter. For help clearing the dungeon, refer to <#1020770414567378995>. If you would like a more simple version of the guide for your first few kills, refer to <#1020770252130373672>.
 
 .
 > __**Drops**__
@@ -17,28 +17,9 @@ Zamorak, Lord of Chaos is the fifth and final installment in the Elder God Wars 
 ⬥ <:lostknowledgecodex:994189285102202890> **Codex of Lost Knowledge**
 ⬥ <:jewelsofzamorak:994189282933739611> **Jewels of Zamorak** - 1/500 group, 1/300 solo (100 threshold)
 .
-{
-  "embed": {
-    "title": "__How Drops Work__",
-    "description": "Unique drops have a base drop rate based on enrage, after 10 kills without a unique drop bad luck mitigation takes effect which reduces the drop denominator until unique drop roll caps at 1/20. The chance of a unique drop being a piece of the Bow of the Last Guardians increases with enrage.",
-    "color": 39423,
-    "fields": [
-      {
-        "name": "__Drop Enrage Calculator__",
-        "value": "[Link to calculator](https://nullopt.github.io/ZammyDrops/) - Courtesy of <@102870112314335232>, <@269934766453817344>, & <@184394201553829890>.\n*Note: Due to an update on September 20, this may be out of date.*"
-      },
-      {
-        "name": "__Full Drop Rate Page__",
-        "value": "[Link to Official RuneScape News Post](https://secure.runescape.com/m=news/zamorak-drop-rates#:~:text=It%20has%20a%20base%20drop,So%20there%20you%20have%20it!)"
-      }
-    ]
-  }
-}
-.embed:json
-.
 > __**Presets**__
 .tag:preset
-It is assumed that Zuk capes <:igneouskalmej:902209626408382494> <:igneouskalxil:902209626404171786> <:igneouskalket:902209626404192316> for your chosen style, Disruption Shield <:disrupt:535614336207552523> and passive Ring of Vigour <:vigour:615613235512737792> are unlocked.
+It is assumed that Zuk capes <:igneouskalmej:902209626408382494> <:igneouskalxil:902209626404171786> <:igneouskalket:902209626404192316> for your chosen style, Disruption Shield <:disrupt:535614336207552523> , toolbelt Infernal Puzzle Box <:infernalpuzzlebox:994189299681607800> and passive Ring of Vigour <:vigour:615613235512737792> are unlocked.
 
 ⬥ All gear used is based on Stage 1 of <#1020045708746833930>, with the addition of the following:
     • Ranged skillcape on Anachronia cape stand/Max Cape <:Ranged:689504724403486920> + Igneous Kalxil <:igneouskalxil:902209626404171786>
@@ -57,7 +38,6 @@ It is assumed that Zuk capes <:igneouskalmej:902209626408382494> <:igneouskalxil
     • <:pf:689501925770919981> Pf switch for <:Magic:689504724159823906> and <:Ranged:689504724403486920>
     • For <:reflect:535541258786177064> and <:res:535541258844635148>
 ⬥ <:vulnbomb:655341074235129858> Vulnerability bombs
-⬥ <:infernalpuzzlebox:994189299681607800> Infernal Puzzle Box *(to be added to preset images)*
 
 .
 **__Melee__ <:melee:615612332521029632>**
@@ -160,8 +140,10 @@ Zamorak's damage and HP scales with enrage, and additional mechanics are introdu
 
 ⬥ **Flames of Zamorak**
     • Zamorak will yell **`The world will burn.`** and slam into the ground, dealing 2 melee hits and spawning Flames of Zamorak between the player with aggression and Zamorak
-    • To deal with this, all players walk under boss, <:DeflectMelee:544195488447201300> and use defensives if low hp
-    • Black smoke (Flames of Zamorak) goes towards the a random player, the more smoke that is absorbed by a player the higher the typeless hit on them will be
+    • To deal with this, be close to the boss, <:DeflectMelee:544195488447201300> and use defensives if low hp
+    • Black smoke (Flames of Zamorak) goes towards the easternmost player, the more smoke that is absorbed by a player the higher the typeless hit on them will be
+    • Ideally, the base tank will be the only player east of Zamorak and in melee distance with all others west, out of melee distance
+    • Solo only: you may walk directly below Zamorak to get no black smoke at all
 
 .img:https://i.imgur.com/VtqJmsu.mp4
 
@@ -276,20 +258,29 @@ Once the Chaos Traps rune <:chaostrapsrune:994206002658431016> is active, traps 
 .
 > **__Phase 7__**
 .tag:p7
+.img:https://i.imgur.com/73kNFau.png
 At 100% enrage, phase 7 is introduced. At the point where the fight would end before enrage, players will now be pulled into Infernus.
-⬥ A Chaos Demon will spawn which should be killed.
-
+⬥ Once the phase has started:
+    • A Chaos Demon will spawn which should be killed.
+    • 2 <:Magic:689504724159823906> hits sent to all players
+.
+__**Rune Calls**__
 ⬥ An amount of runes (2 in solo, otherwise equal to team size in group) will appear before Zamorak and stay there temporarily, **the order in which they appear is the order they must be defeated in.**
     • **The same rune may occur twice.**
     • Killing a rune out of order results in players taking a large amount of damage.
     • Runes uber heal after they are defeated, be careful not to kill it twice.
 
-.
 ⬥ After the last rune is defeated, Zamorak is attackable and uses in this order:
     • [1] A heavy <:melee:615612332521029632> hit
-    • [2] A large soft typeless hit along with 4 additional hits at 10% of the original typeless hit.
+    • [2] A large soft typeless hit along with 4 additional hits.
         - The original hit before mitigation is **equivalent to the red HP bar** in place of the green HP bar visible when killing runes.
         - Make sure your team is spread out or it may hit over 10k even at 100% enrage.
+
+⬥ If Zamorak is not defeated before becoming immune on the 4th additional typeles hit:
+    • [3] Demon spawns followed by a heavy <:melee:615612332521029632> hit
+    • [4] A large soft typeless hit
+    • [5] Runes are called
+    • Resets to [1] once last rune is defeated
 
 .
 **Final phase (Solo <:Magic:689504724159823906> 440%)** (Courtesy of <@646361605310906409>)
@@ -309,7 +300,7 @@ At 100% enrage, phase 7 is introduced. At the point where the fight would end be
 
 __**Suggested Solo Rotations**__
 **Magic**
-*Note: This rotation is able to defeat Zamorak in one cycle as long as followed properly up to at least 700 enrage*
+*Note: this rotation is able to defeat Zamorak in one cycle as long as followed properly up to at least 700 enrage*
 
 ⬥ Demon
     • (ac <:incitefear:856635090783567902> ) <:comb:535533833098100745> → <:icebarrage:537340400185245701> <:gconc:869285393223254107> → <:wm:535533809978966037> → <:dbreath:535533833391702017> → improvise
@@ -327,8 +318,8 @@ __**Suggested Solo Rotations**__
     • <:res:535541258844635148> → <:reflect:535541258786177064> → repeat phase
 .
 **Melee**
-*Note: This rotation is able to defeat Zamorak in one cycle as long as followed properly up to at least 500 enrage*
-*Note: Apply Smoke Cloud <:smokecloud:856635090641879050> before going up if possible*
+*Note: this rotation is able to defeat Zamorak in one cycle as long as followed properly up to at least 500 enrage*
+*Note: apply Smoke Cloud <:smokecloud:856635090641879050> before going up if possible*
 
 ⬥ Demon
     • <:gbargemobile:867678153680617473> → <:gflurry:535532879283879977> → <:overpowerigneous:959089455640215633> + (click off) → <:divert:787904334377648130> → <:freedom:535541258240786434> → <:lengmh:883134308146098227> <:spec:537340400273195028>
@@ -351,7 +342,7 @@ Must start at high adrenaline, 100% being the absolute best.
 
 ⬥ Demon
     • <:deathsporearrows:900758234527301642> <:demonslayer:641339921675845633> → walk forward → <:bindingshot:535541306563231790> → (tc) <:shadowtend:642713547142332416> → <:snap:535534127131394088> → <:bolg:994189289623662702> <:spec:537340400273195028> → Filler until Demon is dead
-*Note: If you don't get any sort of critical hits whatsoever on the Demon, priorize <:incend:535541258429661215> and don't <:gdeathsswift:994644354536837121>.Don't chance it and just accept the 2 cycle. It doesn't matter if <:incend:535541258429661215> is without <:deathsporearrows:900758234527301642>'s buff.*
+*Note: if you don't get any sort of critical hits whatsoever on the Demon, priorize <:incend:535541258429661215> and don't <:gdeathsswift:994644354536837121>.Don't chance it and just accept the 2 cycle. It doesn't matter if <:incend:535541258429661215> is without <:deathsporearrows:900758234527301642>'s buff.*
 
 ⬥ Zamorak
     • <:deathsporearrows:900758234527301642> <:grico:787904334812807238> → <:deathsporearrows:900758234527301642>  <:gdeathsswift:994644354536837121>
@@ -369,7 +360,7 @@ Must start at high adrenaline, 100% being the absolute best.
     • <:grico:787904334812807238> → <:bolg:994189289623662702> <:spec:537340400273195028> / <:snap:535534127131394088>
 
 ⬥ Zamorak's Onslaught
-*Note: Account for the number of stacks in Perfect Equillibrium, standard rotation must attempt to do:*
+*Note: account for the number of stacks in Perfect Equillibrium, standard rotation must attempt to do:*
     • <:sgb:626466665848242186> <:eofspec:746403211908481184>  → <:devo:513190158728953857> → <:Shatter:536256673904328704> → :<:vitality:654618235097972737> <:disrupt:535614336207552523> <:grico:787904334812807238> → <:deadshot:535541307666595870> → <:limitless:641339233638023179> <:snap:535534127131394088> → <:dbow:643848618553507843> <:eofspec:746403211908481184>
 
 Varies greatly with critical hits and how many stacks you have in <:perfectequilibrium:1006119102814887957>.
@@ -405,22 +396,24 @@ In 5-person team, assign people to NW/NE/SE/SW/Middle
 .
 > __**Example Kills**__
 .tag:examples
-*Note: All of these kills are done on release and are to be taken as a quick reference for the time being. As time progresses, proper example kills with much better handling of mechanics will be posted.*
-
 .
 {
   "embed": {
     "title": "__Example Kills__",
-    "description": "⬥ **Suggested** [Mechanic Walkthrough](https://www.youtube.com/watch?v=Wnrh74Elpww) by <@239465986825256971>\n⬥ **Suggested** [Ranged Walkthrough](https://www.youtube.com/watch?v=kQUWse95hrI&t=2s) by <@401918445429587969>",
+    "description": "",
     "color": 39423,
     "fields": [
       {
+        "name": "__Walkthroughs__",
+        "value": "⬥ [Mechanics](https://www.youtube.com/watch?v=Wnrh74Elpww) by <@239465986825256971>\n⬥ [Ranged](https://www.youtube.com/watch?v=kQUWse95hrI&t=2s) by <@401918445429587969>"
+      },
+      {
         "name": "__Ranged__",
-        "value": "⬥ [500% Solo](https://www.youtube.com/watch?v=ui4MqGktWLk) by <@401918445429587969>\n⬥ [30 min of 500%](https://youtu.be/kQUWse95hrI) by <@401918445429587969>"
+        "value": "⬥ [100% Solo (no BotLG)](https://www.youtube.com/watch?v=04tgtcMAQ-k) by <@159663440011460609>\n⬥ [100% Solo](https://www.youtube.com/watch?v=VEByj3u5Kkc) by <@340129852461940737>\n⬥ [30 min of 500%](https://youtu.be/kQUWse95hrI) by <@401918445429587969>"
       },
       {
         "name": "__Melee__",
-        "value": "⬥ [250% Solo](https://youtu.be/c4cszOo6ZrU) by <@361930468880416768>\n⬥ [410% Solo](https://youtu.be/M93aa1MiyP8) by <@361930468880416768>\n⬥ [1000% Solo](https://youtu.be/G45X1fz_46U) by <@361930468880416768>"
+        "value": "⬥ [250% Solo](https://youtu.be/c4cszOo6ZrU) by <@361930468880416768>\n⬥ [410% Solo](https://youtu.be/M93aa1MiyP8) by <@361930468880416768>\n⬥ [500% Solo](https://youtu.be/zdqHoFrnoxM) by <@783575693547143168>\n⬥ [1000% Solo](https://youtu.be/G45X1fz_46U) by <@361930468880416768>"
       },
       {
         "name": "__Magic__",

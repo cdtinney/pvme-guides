@@ -1,0 +1,220 @@
+.img:https://i.imgur.com/Cq64oeS.png
+> **__Dinosaurs__**
+.
+**__Introduction__**
+Mid-level players will kill dinosaurs for the Dinosaur tooth and Dinosaur rib bone - both of which are required to full upgrade the Anachronia base camp. End-game players will kill these for slayer logs. It is recommended to kill Venemous Dinosaurs if your <:slayer:797896049548066857> level is high enough as they are the best in every conceivable way.
+.
+> **__Venomous Dinosaurs__ (Courtesy of <@212008790944514048>, <@191844571024457728> and <@645045935587721216>)**
+
+.
+**__Introduction__**
+.tag:intro
+Venomous dinosaurs are the go-to for dinosaur tasks as they have the highest kills per hour of any dinosaur.
+
+.
+**__Stats__**
+⬥ <:combat:797896050370281523> XP per kill : 1378 + 454.7 <:Constitution:689509250887712902>
+⬥ <:slayer:797896049548066857> XP per kill : 1332
+⬥ Optimal kills per hour: 480
+⬥ Optimal <:slayer:797896049548066857> XP per hour : ~640k
+
+.
+**__Desirable Drops__**
+.tag:desirabledrops
+⬥ Dinosaur tooth - 1/800
+    • Needed for T3 Slayer Lodge for Slayer Helmet <:slayerhelm:798285340460449792> stand
+⬥ Blowpipe pieces <:upgradedboneblowpipe:925794591830056961> - 1/6,000 on-task, 1/20,000 off-task
+⬥ Totem of auras middle <:auratotem:643507594811670538> - 1/300
+⬥ Totem of summoning middle <:summtotem:643507594811539499> - 1/300
+⬥ Totem of intimidation base <:intimidationtotem:643507594794631198> - 1/300
+⬥ Dinosaur rib bone - 1/1,000
+    • Needed for T3 Player Lodge for Skillcape stand
+
+During the Roar of Osseous, blowpipe and totem pieces have a 10% increase in drop rate
+
+.
+**__Location and How to Get There__**
+.tag:locationandhowtogetthere
+Venomous Dinosaurs are located on the northwestern part of Anachronia. They can be accessed by 3 methods, arranged fastest to slowest:
+⬥ **[1]** Anachronia Teleport to a Totem of the Abyss placed on the north totem pedestal (red path)
+⬥ **[2]** Lodestone teleport to Anachronia (keyboard shortcut "Alt + D"), run to the Orthen teleportation device, teleport to Outpost (keyboard shortcut "O"), and run west (blue path)
+⬥ **[3]** Lodestone teleport to Anachronia, and run north (yellow path)
+
+
+.
+.img:https://imgur.com/CZpHR1S.png
+
+.
+**__Useful Items__**
+.tag:usefulitems
+⬥ **Restocking Cannon Ability** - Allows the <:cannon:869283142350041098> to restock without user input.
+.
+⬥ **Abyssal Armour Spikes (alloy)** <:abyssalarmourspikesalloy:947871842541129768> - Increased poison hits and healing via the usage of a scrimshaw of Vampyrism <:VampScrim:513201294262009874>. Other armour spikes work aswell.
+⬥ **Essence of Finality** <:eofor:745279787471470713> with a **Dragon Halberd** <:dragonhalberd:841409589261238282> stored inside - Swipes all targets in front of the player twice, dealing 45-185% ability damage each hit. Good if killing them actively with melee.
+.
+⬥ **Aggression** <:aggression:909338509234569216> abilty from Shattered Worlds - Force up to 8 enemies within 5 tiles to attack you (90s cooldown). Good for active slaying.
+.
+⬥ **Necklace of Salamancy** <:necklaceofsalamancy:970657245312467004> - 15% accuracy and damage buff while fighting a dinosaur-type enemy. Also provides a 3% drop rarity boost from dinosaurs and the Rex Matriarchs.
+
+.
+**__Where to Stand__**
+.
+Place the cannon <:cannon:869283142350041098> on the red square and stand on the yellow square shown in the image below. This effectively aggros the 5 dinosaurs labelled in image. This works for both the <:melee:615612332521029632> and <:Magic:689504724159823906> methods.
+
+.
+.img:https://i.imgur.com/gLDFbZ5.png
+
+.
+> **__Melee__**
+.tag:melee
+⬥ Up to 450 KPH
+
+Venomous Dinosaurs hit with melee auto-attacks. To prevent taking too much damage, <:enhdev4:712073087507628035> is helpful, as you will be praying <:DeflectMelee:544195488447201300> . If using the Corbicula Rex <:corbicula:690136117273821280> perk from the Ranch out of Time, excess adrenaline can be used in the form of the <:zgs:626465964325601290> <:spec:537340400273195028> or <:dragonhalberd:841409589261238282> <:eofspec:746403211908481184> if actively slaying, rotating between these greatly increases the damage dealt.
+
+.
+**__Preset__**
+⬥ <:bdmobile:867678153668820992> switch to get to Dinosaurs faster
+⬥ **Magic Notepaper** to note Dinosaur Bones
+    • The **Death Note** <:deathnote:1023150755093426216> relic can be used for this (especially if AFK)
+    • Alternatively, use <:demonhornnecklace:975765831248130079> with <:bonecrusher:975284344526602240> to gain prayer points.
+        - Due to the value of dinosuar bones, this is not recommended unless AFKing
+        - The **Penance** <:penance:643505653062565907> aura can be used to upkeep prayer
+⬥ Runes are only needed if using Anachronia Teleport spell
+⬥ **Essence of Finality** <:eofor:745279787471470713>: Dragon Halberd <:dragonhalberd:841409589261238282> > Annihilation <:annihilation:796989662983094275>
+
+.
+.img:https://imgur.com/AiljNRt.png
+.
+**__Action Bar__**
+.
+.img:https://i.imgur.com/b5wYNij.png
+.
+*Note: It is assumed certain abilities such as <:bd:535532854281764884>, <:eofspec:746403211908481184> and <:spec:537340400273195028> are accessible on other action bars, or ability books, for manual use. The player may also prefer to manually cast <:devo:513190158728953857> if needed.*
+
+.
+**__Video Example__**
+.
+<https://youtu.be/wSqeBdw2cVE>
+
+.
+> **__Magic__**
+.tag:magic
+⬥ Up to 480 KPH
+
+Thanks to the Venomous Dinosaurs' higher affinity to <:Magic:689504724159823906> (and susceptibility to <:inquisitorstaff:694566917553520680>), aswell as the tankiness provided by <:animatedead:856635090453135382> and Cryptbloom Armour <:cryptbloombody:892819107253194762> , magic can achieve a similar or slightly higher KPH than melee, while being both very safe and AFK.
+
+.
+**__Preset__**
+⬥ **Penance Aura** <:penance:643505653062565907> or **Powder of Penance** <:powderofpenance:928221126360969226> for prayer upkeep
+⬥ **Blood Reaver** <:reaverpouch:839903693837959228> with scrolls <:reaverscroll:1022562484378419284> (set auto-cast timer to 10-15s)
+⬥ **Inquisitor Staff** <:inquisitorstaff:694566917553520680> upgraded with <:enchantmentofaffliction:1006481321087991819>
+⬥ **Igneous Kal-Mej** <:igneouskalmej:902209626408382494> for <:omnipowerigneous:959089455560540200>
+⬥ <:graspingpouchblack:892816436974735361> **Rune Pouch** <:Bloodrune:536252658970001409> <:Astralrune:536252658961481769> <:Bodyrune:536252659301089280> <:Firerune:536252659850674186>
+⬥ <:graspingpouchpink:892816437503221830> **Rune Pouch** <:Deathrune:536252659586433024> <:Earthrune:536252659808731137> <:Lawrune:536252661406760970> <:Cosmicrune:536252659615924258>
+⬥ <:graspingpouchblue:892816437406728252> **Rune Pouch** <:Chaosrune:536252659422855188> <:Airrune:536252658986647589> <:Waterrune:536252660165115905> <:Soulrune:536252660333019136>
+    • Add 3 <:Naturerune:536252660270104591> for <:SBSStandards:565726489526534154> + Anachronia Teleport if using it to access the dinosaurs.
+(Runes for <:animatedead:856635090453135382> <:exsanguinate:856635090745950258> <:prismofrestoration:938475261366784070>)
+.
+.img:https://i.imgur.com/NmYycmR.png
+
+.
+**__Notes__**
+⬥ Prism of Restoration <:prismofrestoration:938475261366784070> should be cast at least every 5min to keep your familiar alive.
+⬥ If <:necklaceofsalamancy:970657245312467004> is not owned, player's can use <:demonhornnecklace:975765831248130079> or <:aosor:544200033847869443> instead.
+⬥ This preset assumes the player has their <:slayerhelm:798285340460449792> in the Anachronia Stand.
+⬥ If uncomfortable with the method or cutting corners, <:RoD:513190159462825984> can be used instead of <:reaverring:839903943018283050>.
+⬥ The <:reaverring:839903943018283050> can still be used off-task, as the player should not experience any accuracy issues.
+
+.
+**__Action Bar__**
+.
+.img:https://i.imgur.com/1sj0CK2.png
+.
+*Note: if <:magmatempest:902209626509025290> and/or <:gchain:787904334495088672> are not owned, simply ignore them and move the remaining abilities closer to the left. <:gsunshine:994644352871714836> is by no means a requirement, but can slightly improve KPH.*
+
+.
+> **__Other dinosaurs__**
+.tag:otherdinosaurs
+.
+It is only recommended to kill other dinosaurs if you do not have the level for Venomous dinosaurs or if you are collecting their souls in ushabtis. Bars for all these dinosaurs might be sub-optimal, if you find a better bar please make a post in <#1020853673317908500>.
+
+.
+**__Rates__**
+⬥ Feral Dinosaur <:feraldinosaur:1004107322882261072> ~300kph
+⬥ Brutish Dinosaur <:brutishdinosaur:1004107321087103179> ~200kph
+⬥ Ripper Dinosaur <:ripperdinosaur:1004107317450641438> ~200kph
+
+.
+**__Location and How to Get There__**
+⬥ See the map in the Venomous dinosaur section.
+    • <:feraldinosaur:1004107322882261072> are located Southeast of Venomous dinosaurs, along the yellow path.
+    • <:brutishdinosaur:1004107321087103179> are located Northeast of Venomous dinosaurs, along the red path.
+⬥ For <:ripperdinosaur:1004107317450641438>, teleport to <:laniakea:975284345411600426> using the <:slayercape:975284344123953164> and walk north.
+
+.
+**__Feral Dinosaurs__**
+Pray <:DeflectMelee:544195488447201300> and <:turmoil:583429936606347280> / <:Malevolence:513190159416557573>.
+.
+**__Preset__**
+.
+.img:https://imgur.com/aAZbtXs.png
+.
+**__Action bar__**
+⬥ Remove <:zerk:535532854004678657> and <:Tuskas:513201065513058306> if off-task
+.
+.img:https://imgur.com/gQpI1Gv.png
+.
+**__Where to Stand__**
+Player position (yellow) and cannon position (red)
+.
+.img:https://imgur.com/xdwdy8F.png
+.
+**__Brutish Dinosaurs__**
+Pray <:DeflectMelee:544195488447201300> and <:turmoil:583429936606347280> / <:Malevolence:513190159416557573>.
+.
+**__Preset__**
+.
+
+.img:https://imgur.com/aAZbtXs.png
+.
+**__Action bar__**
+⬥ Remove <:Tuskas:513201065513058306> if off-task
+.
+.img:https://imgur.com/BUlsZhU.png
+.
+**__Where to Stand__**
+Player position (yellow) and cannon position (red)
+.
+.img:https://imgur.com/NsU5cgR.png
+.
+**__Ripper Dinosaurs__**
+Pray <:DeflectMelee:544195488447201300> and <:torment:583429936958930964> / <:Affliction:513190158468907008>.
+.
+**__Preset__**
+.
+⬥ See the full breakdown below for possible downgrades
+⬥ <:graspingpouchblack:892816436974735361> **Rune Pouch** <:Bloodrune:536252658970001409> <:Astralrune:536252658961481769> <:Bodyrune:536252659301089280> <:Firerune:536252659850674186>
+⬥ <:graspingpouchpink:892816437503221830> **Rune Pouch** <:Deathrune:536252659586433024> <:Earthrune:536252659808731137> <:Lawrune:536252661406760970> <:Cosmicrune:536252659615924258>
+⬥ <:graspingpouchblue:892816437406728252> **Rune Pouch** <:Chaosrune:536252659422855188> <:Airrune:536252658986647589> <:Waterrune:536252660165115905> <:Soulrune:536252660333019136>
+.img:https://imgur.com/wrrm424.png
+.
+*Note: a full preset breakdown can be found here:* https://imgur.com/zDVI6ze
+.
+**__Action bar__**
+.
+.img:https://imgur.com/cpC7pDh.png
+.
+**__Where to Stand__**
+A better image like the ones above will follow soon. Place the cannon on the marked location, it does not matter where the player stands.
+.
+.img:https://imgur.com/GJYFEsW.png
+.
+{
+  "embed": {
+    "title": "Table of Contents",
+    "description": "⬥ [Introduction]($linkmsg_intro$)\n⬥ [Desireable Drops]($linkmsg_desirabledrops$)\n⬥ [How to Get There]($linkmsg_locationandhowtogetthere$)\n⬥ [Useful Items]($linkmsg_usefulitems$)\n⬥ [Melee]($linkmsg_melee$)\n⬥ [Magic]($linkmsg_magic$)\n⬥ [Other Dinosaurs]($linkmsg_otherdinosaurs$)",
+    "color": 39423
+  }
+}
+.embed:json
+.pin:delete
